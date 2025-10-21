@@ -1,4 +1,3 @@
-
 // --- Referencias DOM ---
 const player1Input = document.getElementById("player1");
 const player2Input = document.getElementById("player2");
@@ -215,3 +214,4 @@ const subjectQuestions = {
     { question: "Al lanzar una moneda, la probabilidad de que salga cara o sello es:", options: ["a) 1/2", "b) 1", "c) 1/3", "d) 0"], correct: "a" }
   ]
 }; 
+
